@@ -87,4 +87,12 @@ Below are screenshots showing the semantic HTML structure and layout of the resu
 ### Screenshot 7
 ![Screenshot 7](./Screenshots/Screenshot%207.png)
 
+## Output Screenshot
+
+### Screenshot 8
+![Screenshot 7](./Screenshots/Screenshot%208.png)
+
+### Screenshot 9
+![Screenshot 7](./Screenshots/Screenshot%209.png)
+
 
