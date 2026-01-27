@@ -47,4 +47,6 @@ resume-project/
 ```
 ## Demo
 
-[![Resume Project Demo](./thumbnail.jpeg)](./demo.webm)
+## Demo
+
+[![Resume Project Demo](./thumbnail.png)](https://raw.githubusercontent.com/USERNAME/REPO/branch/demo.webm)
