@@ -47,8 +47,5 @@ resume-project/
 ```
 ## Demo
 
-## Demo
-## Demo
-
 [![Resume Project Demo](./thumbnail.jpeg)](https://raw.githubusercontent.com/Akhilxtech/WebDev-Cohort-2026/main/HTML-Assignment/demo.webm)
 
