@@ -44,11 +44,47 @@ This project focuses on clean structure and correct HTML semantics.
 
 ## Project Structure
 ```text
-resume-project/
+HTML-Assignment/
 ├── index.html
+├── demo.webm
+├── thumbnail.jpeg
+├── Screenshots/
+│   ├── Screenshot 1.png
+│   ├── Screenshot 2.png
+│   ├── Screenshot 3.png
+│   ├── Screenshot 4.png
+│   ├── Screenshot 5.png
+│   ├── Screenshot 6.png
+│   └── Screenshot 7.png
 └── README.md
 ```
 ## Demo
 
 [![Resume Project Demo](./thumbnail.jpeg)](https://raw.githubusercontent.com/Akhilxtech/WebDev-Cohort-2026/main/HTML-Assignment/demo.webm)
+
+## Code Screenshots
+
+Below are screenshots showing the semantic HTML structure and layout of the resume project.
+
+### Screenshot 1
+![Screenshot 1](./Screenshots/Screenshot%201.png)
+
+### Screenshot 2
+![Screenshot 2](./Screenshots/Screenshot%202.png)
+
+### Screenshot 3
+![Screenshot 3](./Screenshots/Screenshot%203.png)
+
+### Screenshot 4
+![Screenshot 4](./Screenshots/Screenshot%204.png)
+
+### Screenshot 5
+![Screenshot 5](./Screenshots/Screenshot%205.png)
+
+### Screenshot 6
+![Screenshot 6](./Screenshots/Screenshot%206.png)
+
+### Screenshot 7
+![Screenshot 7](./Screenshots/Screenshot%207.png)
+
 
