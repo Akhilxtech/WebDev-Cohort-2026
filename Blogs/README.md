@@ -54,3 +54,5 @@ Looking forward to your review and feedback.
 
 Thanks in advance for taking time and revewing my work.  
 I really appreciate any suggestions or improvements you did like to share.
+ **Note:** Links open in the same tab by default.
+
