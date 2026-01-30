@@ -4,13 +4,13 @@
 https://web-dev-cohort-2026.vercel.app/
 
 ## Overview
-A simple, responsive resume built using semantic HTML 
+A very simple, responsive resume built using semantic HTML 
 This project focuses on clean structure and correct HTML semantics.
 
 ---
 
 ## Purpose
-- complete the cohort assignment
+- To complete the cohort assignment
 - Practice semantic HTML elements
 - Create a resume layout using proper structure
 - Understand real-world HTML document organization
@@ -37,8 +37,8 @@ This project focuses on clean structure and correct HTML semantics.
 ## Features
 - Semantic HTML5 layout
 - Clean and readable structure
-- Email and phone links using `mailto` and `tel`
-- Resume-style sections (Skills, Projects, Education)
+- For Email and phone links using `mailto` and `tel`
+- Resume-style sections like (Skills, Projects, Education)
 
 ---
 
@@ -70,7 +70,7 @@ WebDev-Cohort-2026/
 
 ## Code Screenshots
 
-Below are screenshots showing the semantic HTML structure and layout of the resume project.
+Below are thescreenshots showing the semantic HTML structure and layout of the resume project.
 
 ### Screenshot 1
 ![Screenshot 1](./Screenshots/Screenshot%201.png)
